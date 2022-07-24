@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/BT1-IllegalTriangleException/BT1-IllegalTriangleException.iml" filepath="$PROJECT_DIR$/BT1-IllegalTriangleException/BT1-IllegalTriangleException.iml" />
       <module fileurl="file://$PROJECT_DIR$/CG-M2-B15-ExceptionHandling-Debug.iml" filepath="$PROJECT_DIR$/CG-M2-B15-ExceptionHandling-Debug.iml" />
       <module fileurl="file://$PROJECT_DIR$/TH1-ArrayIndexOutOfBoundsException/TH1-ArrayIndexOutOfBoundsException.iml" filepath="$PROJECT_DIR$/TH1-ArrayIndexOutOfBoundsException/TH1-ArrayIndexOutOfBoundsException.iml" />
       <module fileurl="file://$PROJECT_DIR$/TH2-NumberFormatException/TH2-NumberFormatException.iml" filepath="$PROJECT_DIR$/TH2-NumberFormatException/TH2-NumberFormatException.iml" />
